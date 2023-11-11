@@ -22,7 +22,7 @@ marquee {
     color: white;
     font-family: sans-serif;
     position: absolute;
-    width: 100%;
+    width: 85%;
     margin-top: 0%;
     z-index: 5;
 }
@@ -30,12 +30,12 @@ marquee {
 div#apresentacao {
     margin-bottom: 1vh;
     position: absolute;
-    width: 100%;
+    width: 85%;
     height: 100%;
 }
 
 .marquee {
-    width: 100% !important;
+    width: 85% !important;
     margin-left: 0% !important;
 }
 
@@ -125,7 +125,7 @@ marquee {
 }
 
 .video-screen {
-    width: 100%;
+    width: 85%;
 }
 
 .carousel-control-next-icon {
@@ -162,7 +162,7 @@ marquee {
         background: url("../img/tema-defalt.png") no-repeat;
         margin-bottom: 1vh;
         position: absolute;
-        width: 100%;
+        width: 85%;
         height: 100%;
     }
 
