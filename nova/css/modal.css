@@ -4,7 +4,7 @@
     position: fixed;
     top: 0;
     left: 0;
-    width: 100%;
+    width: 85%;
     height: 100%;
     background: #00000090;
     opacity: 0;
@@ -104,11 +104,11 @@ textarea {
 
     .modal-content {
         margin: 0;
-        width: 100%;
+        width: 85%;
         position: fixed;
     }
 
     .modal-field {
-        width: 100%;
+        width: 85%;
     }
 }
