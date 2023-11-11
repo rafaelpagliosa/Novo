@@ -31,7 +31,7 @@ body {
 
 /*cabeçario*/
 header {
-    background-color: rgba(18, 35, 60, 1);
+    background-color: rgba(255, 250, 42, 1);
     height: 70px;
     text-align: center;
     line-height: 70px;
@@ -79,7 +79,7 @@ main {
 }
 
 .h1_titulo {
-    color: #fff;
+    color: #050505;
 }
 
 div#example_wrapper {
@@ -103,7 +103,7 @@ div#example_wrapper {
 /*tabela*/
 table {
     border: 1px solid #c0c0c0;
-    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    box-shadow: 0 0 10px rgba(248, 246, 246, 0.1);
     width: 100% !important;
     margin-top: 2% !important;
     margin-bottom: 2% !important;
@@ -114,15 +114,15 @@ table {
 }
 
 table th {
-    background-color: #1FB6FF;
-    color: #1b0386;
+    background-color: #030303;
+    color: #f6f6f7;
     width: 250px !important;
     font-size: 1em;
 }
 
 table td {
     background-color: #f9f9f9;
-    color: #333;
+    color: #e91919;
     padding: 10px;
     transition: background-color 0.3s ease;
     cursor: pointer;

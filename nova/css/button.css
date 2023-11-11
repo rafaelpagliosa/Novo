@@ -3,14 +3,14 @@
     height: 40px;
     padding: 6px 12px;
     background-color: black;
-    color: white;
+    color: rgb(5, 5, 5);
     font-size: 1rem;
     cursor: pointer;
     transition: box-shadow .6s ease;
 }
 
 .button.blue{
-    background-color: #1FB6FF;
+    background-color: #FFCD2A;
 }
 
 button.green{
